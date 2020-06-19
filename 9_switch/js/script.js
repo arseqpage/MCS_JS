@@ -17,3 +17,4 @@ switch (answer) {
 	default: console.log('No such singer in database');
 		break;
 }
+
